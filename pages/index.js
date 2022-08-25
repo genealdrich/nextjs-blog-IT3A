@@ -8,7 +8,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <img src="/1234.jpg" alt="pektu" className="logo" />
+      <img src="/1234.jpg" className="logo" />
 
       <main>
         <h1 className="title">
